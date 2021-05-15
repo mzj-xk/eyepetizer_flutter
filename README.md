@@ -2,6 +2,7 @@
 
 A new Flutter project.
 这是一个使用 Flutter写的仿开眼短视频app
+在change_readme分支下
 
 ## Getting Started
 
